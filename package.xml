@@ -2,13 +2,12 @@
   <name>openrobot_follow</name>
   <version>0.4.0</version>
 
-  <description>ROS by Example Vol 1 Apps Package</description>
+  <description>openrobot_follow Package</description>
 
-  <maintainer email="patrick@pirobot.org">Patrick Goebel</maintainer>
+  <maintainer email="2382766916@qq.com">pos</maintainer>
   <license>BSD</license>
-  <url type="website">http://ros.org/wiki/rbx1_apps</url>
-  <url type="bugtracker">https://github.com/pirobot/rbx1/issues</url>
-  <author email="patrick@pirobot.org">Patrick Goebel</author>
+ 
+  <author email="2382766916@qq.com">pos</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 
