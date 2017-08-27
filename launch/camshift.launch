@@ -1,0 +1,11 @@
+<launch>
+  <node pkg="openrobot_follow" name="camshift" type="camshift.py" output="screen">
+    <remap from="input_rgb_image" to="/camera/rgb/image_raw" />
+    <rosparam>
+       smin: 5
+       vmin: 145
+       vmax: 254
+       threshold: 50
+    </rosparam>
+  </node>
+</launch>
